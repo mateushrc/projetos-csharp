@@ -13,7 +13,7 @@ Todos os projetos foram feitos em **.NET** com foco em **praticar lógica, POO e
 | [📝 Text Editor](https://github.com/mateushrc/texteditor-csharp) | Console text editor inspired by Balta’s .NET course. Allows users to create, open, edit, and save text files directly from the terminal. | 02/11/2025 |
 | [⏱️ StopWatch](https://github.com/mateushrc/stopwatch-csharp) | Console stopwatch application built in C#. Allows users to start, pause, and reset a timer directly from the terminal. Created to practice loops, time handling, and user input. | 03/11/2025 |
 | [🔐 Password Generator](https://github.com/mateushrc/passwordgenerator-csharp) | Console-based password generator that creates secure and customizable passwords. Built to practice randomization, string manipulation, and user input handling in C#. | 04/11/2025 |
-| [✅ To-Do List](https://github.com/mateushrc/todolist-csharp) | Console To-Do List application that implements full CRUD operations (Create, Read, Update, Delete). Designed to practice collections, loops, and console interfaces in C#. | 05/11/2025 |
+| [✅ To-Do List](https://github.com/mateushrc/to-do-list-csharp) | Console To-Do List application that implements full CRUD operations (Create, Read, Update, Delete). Designed to practice collections, loops, and console interfaces in C#. | 05/11/2025 |
 
 ---
 

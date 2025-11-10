@@ -16,28 +16,30 @@ Todos os projetos foram feitos em **.NET**, com foco em **praticar lógica, POO 
 | [✅ To-Do List](https://github.com/mateushrc/to-do-list-csharp) | Console-based task manager with full CRUD functionality. | 05/11/2025 |
 | [🧩 Login System](https://github.com/mateushrc/loginsystem-csharp) | Basic login and registration system using lists for user storage. | 06/11/2025 |
 | [📚 Library Management System](https://github.com/mateushrc/librarymanagementsystem-csharp) | Book management system to register, search, and list items in a console interface. | 07/11/2025 |
+| [💡 LeetCode C#](https://github.com/mateushrc/leetcode-csharp) | My personal LeetCode solutions written in C#. Focused on algorithms, logic, and problem-solving skills. | 08/11/2025 |
+| [📁 FileManager](https://github.com/mateushrc/filemanager-csharp) | File management system following SOLID principles with full CRUD functionality. | 10/11/2025 |
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
-- **C#**
-- **.NET**
-- **Console Applications**
+- **C#** — linguagem principal para todos os projetos  
+- **.NET** — framework base para desenvolvimento e execução  
+- **Console Applications** — foco em lógica, estrutura e interação direta com o usuário  
+- **Programação Orientada a Objetos (POO)** — aplicada em todos os projetos para praticar boas práticas e organização de código  
 
 ---
 
 ## 🎯 Objetivo
-Este repositório foi criado para reforçar meus conhecimentos em:
-- Estruturas de repetição e condição  
-- Manipulação de strings e listas  
-- Boas práticas de código e organização de projetos  
-- Interação com o usuário no console  
+Este repositório foi criado para **consolidar meus estudos em C# e .NET**, aplicando os conceitos de:
+- Estruturas de repetição, decisão e tratamento de erros  
+- Manipulação de strings, coleções e arquivos  
+- Padrões de projeto e princípios **SOLID**  
+- Escrita de código limpo, reutilizável e bem estruturado  
+- Simulação de cenários reais de CRUD e lógica de sistemas  
 
 ---
 
 ## 📘 Próximos Passos
-- Criar um CRUD completo com persistência de dados (arquivos ou banco de dados)  
+- Criar **CRUDs com persistência de dados** (arquivos e banco de dados)  
 - Explorar **APIs REST** com **ASP.NET Core**  
-- Implementar **testes automatizados**  
-
----
+- Implementar **testes automatizados e boas práticas de arquitetura**  

@@ -18,6 +18,7 @@ Todos os projetos foram feitos em **.NET**, com foco em **praticar lógica, POO 
 | [📚 Library Management System](https://github.com/mateushrc/librarymanagementsystem-csharp) | Book management system to register, search, and list items in a console interface. | 07/11/2025 |
 | [💡 LeetCode C#](https://github.com/mateushrc/leetcode-csharp) | My personal LeetCode solutions written in C#. Focused on algorithms, logic, and problem-solving skills. | 08/11/2025 |
 | [📁 FileManager](https://github.com/mateushrc/filemanager-csharp) | File management system following SOLID principles with full CRUD functionality. | 10/11/2025 |
+| [📧 ValidateEmail](https://github.com/mateushrc/validateemail-csharp) | Simple email validator using **Regex** to verify proper email format (e.g., user@example.com). | 11/11/2025 |
 
 ---
 
